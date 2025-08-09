@@ -259,7 +259,6 @@ namespace ConsoleGame2
 
      
      
-        }
         #endregion
         #region 보상
         //4. 보상
@@ -306,5 +305,5 @@ namespace ConsoleGame2
             }
         }
     }
-}
+
 
