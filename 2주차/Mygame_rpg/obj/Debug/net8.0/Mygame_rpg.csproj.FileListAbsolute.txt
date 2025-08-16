@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.sourcelink.json
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\bin\Debug\net8.0\Mygame_rpg.exe
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\bin\Debug\net8.0\Mygame_rpg.deps.json
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\bin\Debug\net8.0\Mygame_rpg.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\bin\Debug\net8.0\Mygame_rpg.dll
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\bin\Debug\net8.0\Mygame_rpg.pdb
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.dll
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\refint\Mygame_rpg.dll
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.pdb
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\Mygame_rpg.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_C-\2주차\Mygame_rpg\obj\Debug\net8.0\ref\Mygame_rpg.dll
