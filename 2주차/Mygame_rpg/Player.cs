@@ -57,6 +57,10 @@ namespace Mygame_rpg
                     Skills.Add(new PhysicalSkill("성경 방패", 99));
                     Console.WriteLine("새로운 기술을 배웠습니다: 성경 방패");
                     break;
+                case 4:
+                    Skills.Add(new RangedAttack("물건 던지기", 75));
+                    Console.WriteLine("새로운 기술을 배웠습니다: 물건 던지기");
+                    break;
             }
         }
 

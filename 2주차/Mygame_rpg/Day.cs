@@ -33,6 +33,12 @@ namespace Mygame_rpg
             {
                 StartNormalBattles();
             }
+            else if (_dayNumber == 3)
+            {
+                StartBossBattle();
+            }
+            
+         
         }
 
         private void StartNormalBattles()

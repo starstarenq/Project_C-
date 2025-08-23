@@ -16,6 +16,7 @@ namespace Mygame_rpg
         {
             Name = name;
             Damage = damage;
+            
         }
 
         public abstract void Use(player player, Demon demon);
@@ -44,4 +45,21 @@ namespace Mygame_rpg
             demon.TakeDamage(totalDamage);
         }
     }
+    public class RangedAttack : Skill
+    {
+        public RangedAttack(string name, int baseDamage) : base(name, baseDamage)
+     
+        { }
+        public override void Use(player player, Demon demon)
+        {
+            int totalDamage = (int)(player.AttackPower * 1.2 + Damage);
+            Console.WriteLine($"플레이어가 '{Name}' 기술을 사용하여 {demon.Name}에게 {totalDamage}의 원거리 피해를 입혔습니다.");
+            demon.TakeDamage(totalDamage);
+
+
+        }
+
+    }
+
+
 }

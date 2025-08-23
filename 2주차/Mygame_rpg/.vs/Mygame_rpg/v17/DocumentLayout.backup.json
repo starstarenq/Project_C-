@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\iskillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:iskillable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\demon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:demon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|c:\\users\\administrator\\desktop\\project_c-\\2\uC8FC\uCC28\\mygame_rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485280F1-1BDA-4BB2-84DA-D891AD37E7C5}|Mygame_rpg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ISkillable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\ISkillable.cs",
+              "RelativeDocumentMoniker": "ISkillable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\ISkillable.cs",
+              "RelativeToolTip": "ISkillable.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:24:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Experience.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Experience.cs",
               "RelativeDocumentMoniker": "Experience.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Experience.cs",
               "RelativeToolTip": "Experience.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:46:18.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Day.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Day.cs",
               "RelativeDocumentMoniker": "Day.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Day.cs",
               "RelativeToolTip": "Day.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwFYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:45:11.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Skill.cs",
               "RelativeDocumentMoniker": "Skill.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Skill.cs",
               "RelativeToolTip": "Skill.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:44:19.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwDgAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:36:43.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Demon.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Demon.cs",
               "RelativeDocumentMoniker": "Demon.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Demon.cs",
               "RelativeToolTip": "Demon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:32:40.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Mygame_rpg\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T06:19:09.2Z",
               "EditorCaption": ""

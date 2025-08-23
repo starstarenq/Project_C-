@@ -44,7 +44,9 @@ namespace Mygame_rpg
         }
     }
 
-    public class BossDemon : Demon
+    // interface를 추가하는 방법
+
+    public class BossDemon : Demon, ISkillable
     {
         public BossDemon(string name, int health, int attackPower, int exp)
         {
@@ -56,10 +58,17 @@ namespace Mygame_rpg
 
         public override void AttackPlayer(player player)
         {
+            // Random을 사용해서 0 ~ 2
+            // 0일떄 스킬A, 스킬B, 스킬C 사용한다.
+
+
             Console.WriteLine($"💥 보스 악령의 강력한 공격! 💥");
             player.TakeDamage(AttackPower);
         }
 
-
+        public void UseSkill()
+        {
+           
+        }
     }
 }

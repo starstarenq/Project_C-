@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Enemy.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Project_C-\\2\uC8FC\uCC28\\Project2_Class\\Enemy.cs",
               "RelativeToolTip": "Enemy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA6wB8AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwB8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T07:38:54.631Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "info.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAIwDYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T07:04:27.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T07:04:27.389Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowDQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T05:18:56.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T05:18:56.245Z"
             }
           ]
         }
