@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\bin\Debug\net8.0\MyRandom.exe
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\bin\Debug\net8.0\MyRandom.deps.json
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\bin\Debug\net8.0\MyRandom.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\bin\Debug\net8.0\MyRandom.dll
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\bin\Debug\net8.0\MyRandom.pdb
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.sourcelink.json
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.dll
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\refint\MyRandom.dll
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.pdb
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\MyRandom.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_C-\4주차\MyRandom\obj\Debug\net8.0\ref\MyRandom.dll
